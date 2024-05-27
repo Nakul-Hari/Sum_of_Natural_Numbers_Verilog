@@ -31,3 +31,20 @@ The experimental procedure involves designing and implementing the Verilog code 
 ## Conclusion
 
 This experiment showcases the Verilog-based implementation of a digital system for calculating the sum of the first N natural numbers. By exploring different implementation approaches and leveraging hierarchical modeling, the experiment demonstrates how to optimize hardware resource utilization while maintaining efficient functionality. The use of FSM-based control and direct computation methods offers insights into the trade-offs between complexity and resource efficiency in digital circuit design.
+
+## Getting Started
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/Sum_of_Squares_Verilog.git
+    ```
+2. Open the Verilog files in your preferred Verilog simulator or FPGA development environment.
+3. Run the testbench to verify the design.
+
+## License
+
+This project is licensed under the  Apache License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+This implementation is part of the lab work for the EE5516 VLSI Architectures for Signal Processing and Machine Learning course.
