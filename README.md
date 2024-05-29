@@ -10,7 +10,7 @@ This repository hosts a Verilog implementation of a digital system designed to c
 
 The sum of the first N natural numbers can be computed using the formula:
 
-\[ \text{Sum} = 1 + 2 + 3 + \ldots + N \]
+$$ \text{Sum} = 1 + 2 + 3 + \ldots + N $$
 
 The algorithm iteratively adds each natural number from 1 to N to obtain the total sum. Depending on the hardware implementation requirements, this process can involve either a direct calculation or a more structured approach.
 
@@ -36,14 +36,14 @@ This experiment showcases the Verilog-based implementation of a digital system f
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Sum_of_Squares_Verilog.git
+    git clone https://github.com/Nakul-Hari/Sum_of_Natural_Numbers_Verilog.git
     ```
 2. Open the Verilog files in your preferred Verilog simulator or FPGA development environment.
 3. Run the testbench to verify the design.
 
 ## License
 
-This project is licensed under the  Apache License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the  MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
